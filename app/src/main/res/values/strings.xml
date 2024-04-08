@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTlo</string>
+    <string name="address">Address:</string>
+    <string name="download_info">Download information</string>
+    <string name="download_file">Download file</string>
+    <string name="file_size">File size:</string>
+    <string name="file_type">File type:</string>
+    <string name="downloading_progress">Downloading\nprogress:</string>
+    <string name="notification_title">File downloading...</string>
+    <string name="downloading">Downloading...</string>
+    <string name="finished">Finished!</string>
+    <string name="waiting">Waiting...</string>
+    <string name="error">Error!</string>
+
+</resources>
